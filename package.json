@@ -1,0 +1,24 @@
+{
+  "name": "softwaretaller",
+  "version": "1.0.0",
+  "description": "taller calidad software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angela260900/SoftwareTaller.git"
+  },
+  "keywords": [
+    "taller",
+    "calidad",
+    "software"
+  ],
+  "author": "Angela Pulido Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angela260900/SoftwareTaller/issues"
+  },
+  "homepage": "https://github.com/Angela260900/SoftwareTaller#readme"
+}
